@@ -13,9 +13,6 @@ Computer Science student at UiTM interested in Machine Learning
 - Java
 - SQL
 
-## Projects
-- [Project name](link-to-your-repository): one sentence about it
-
 ## Contact
 - LinkedIn: https://www.linkedin.com/feed/
 - Email: irdinazlhzm@gmail.com
