@@ -13,6 +13,9 @@ Computer Science student at UiTM interested in Machine Learning
 - Java
 - SQL
 
+# Projects 
+- CSC649 Assignment 1: https://github.com/irdinazlhzm/Assignment-1
+
 ## Contact
 - LinkedIn: https://www.linkedin.com/feed/
 - Email: irdinazlhzm@gmail.com
